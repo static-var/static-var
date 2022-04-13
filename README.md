@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Android and kotlin**
 
-- 📫 How to reach me **me@unusedvariable.dev**
+- 📫 How to reach me **me@staticvar.dev**
 
-- ✍🏼 Blogs at [unusedvariable.dev](https://unusedvariable.dev)
+- ✍🏼 Blogs at [staticvar.dev](https://staticvar.dev)
 
 - ⚡ Fun fact **I can play a bit of guitar, piano and valorant.**
 
