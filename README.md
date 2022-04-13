@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unused-variable&label=Profile%20views&color=0e75b6&style=flat" alt="unused-variable" /> </p>
 
-<p align="left"> <a href="https://twitter.com/unused_variable" target="blank"><img src="https://img.shields.io/twitter/follow/unused_variable?logo=twitter&style=for-the-badge" alt="unused_variable" /></a> </p>
+<p align="left"> <a href="https://twitter.com/static_var" target="blank"><img src="https://img.shields.io/twitter/follow/unused_variable?logo=twitter&style=for-the-badge" alt="unused_variable" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
