@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Lodha</h1>
-<h3 align="center">A passionate 🤖 Android developer</h3>
+<h3 align="center">🤖 Android developer 🤖</h3>
 
-- 🌱 I’m currently learning **Android internals and Jetpack Compose**
+- 🌱 Currently enjoying learning **Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/static-var/](https://github.com/static-var/)
 
@@ -11,7 +11,7 @@
 
 - ✍🏼 Blogs at [staticvar.dev](https://staticvar.dev)
 
-- ⚡ Fun fact **I can play a bit of guitar, piano and valorant.**
+- ⚡ Fun fact **I can play a bit of guitar, piano and video games.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unused-variable&label=Profile%20views&color=0e75b6&style=flat" alt="unused-variable" /> </p>
 
