@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Android internals and Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://github.com/unused-variable/](https://github.com/unused-variable/)
+- 👨‍💻 All of my projects are available at [https://github.com/static-var/](https://github.com/static-var/)
 
 - 💬 Ask me about **Android and kotlin**
 
