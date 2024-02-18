@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Lodha</h1>
 <h3 align="center">🤖 Android developer 🤖</h3>
 
-- 🌱 Currently enjoying learning **Jetpack Compose** and **KMM**
+- 🌱 Currently enjoying learning **Jetpack Compose** and **KMP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/static-var/](https://github.com/static-var/)
 
